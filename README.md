@@ -1,6 +1,6 @@
 # README
 ## Description
-code of CS386-Project 1@SJTU
+code for CS386 Assignment 1.**AV-QA: Audio Visual Quality Assessment** @SJTU
 
 ### Requirement
 
@@ -45,5 +45,4 @@ Run `test.py` to evalute your model on the testing set. Remember to specify the 
 ```shell
 python test.py --model-path path-to-your-model
 ```
-
 
